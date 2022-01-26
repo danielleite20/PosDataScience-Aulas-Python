@@ -1,4 +1,4 @@
-# python-aulas
+# Python-Aulas
 
 Bem-vindo(a) esta página é do curso de programação em Python.
 
